@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation published through every regiment of horse and foot, and all the garrisons of the north of England (upon orders received from his Excellency Sir Thomas Fairfax.) By Major Generall Lambert. Also the sentence of the councell of vvar, for inflicting of exemplary punishment upon divers souldiers, that mutinyed at Halifax, with others. And a copy of Major Generall Lamberts speech, made at a councell of war, concerning disbanding. With instructions to the colonells and other officers. Subscribed, Jo. Lambert</title>
+            <author>Lambert, John, 1619-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88324</idno>
+            <idno type="STC">Wing L241</idno>
+            <idno type="STC">Thomason E424_11</idno>
+            <idno type="STC">ESTC R202835</idno>
+            <idno type="EEBO-CITATION">99862995</idno>
+            <idno type="PROQUEST">99862995</idno>
+            <idno type="VID">161428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161428)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E424[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation published through every regiment of horse and foot, and all the garrisons of the north of England (upon orders received from his Excellency Sir Thomas Fairfax.) By Major Generall Lambert. Also the sentence of the councell of vvar, for inflicting of exemplary punishment upon divers souldiers, that mutinyed at Halifax, with others. And a copy of Major Generall Lamberts speech, made at a councell of war, concerning disbanding. With instructions to the colonells and other officers. Subscribed, Jo. Lambert</title>
+                  <author>Lambert, John, 1619-1683.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 1st"; the 8 in imprint date has been altered to 7.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas, 1612-1671 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161428:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>A PROCLAMATION PUBLISHED Through every Regiment of Horſe and Foot, and all the Garriſons of the North OF ENGLAND (Upon Orders received from his Excellency Sir THOMAS FAIRFAX.)</p>
+            <p>By Major Generall LAMBERT.</p>
+            <p>ALSO The ſentence of the Councell of VVar, for inflicting of exemplary puniſhment upon divers Souldiers, that mutinyed at <hi>Halifax,</hi> with others. And a Copy of Major Generall <hi>Lamberts</hi> ſpeech, made at a Councell of War, concerning disbanding.</p>
+            <p>With Inſtructions to the Colonells and other Officers. Subſcribed, <hi>JO. LAMBERT:</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:161428:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="1" facs="tcp:161428:2"/>
+            <!-- PDF PAGE 31 -->
+            <head>BY Major Generall <hi>LAMBERT,</hi> A PROCLAMATION TO All Collonels, Lieutenant Collonels Majors, and Captaines, of Horſe and Foot, and to all Governours of Gar<g ref="char:EOLhyphen"/>riſons under his Command.</head>
+            <p>WHereas the Parliament hath ordained that a certaine number of Horſe and Foote ſhall be continued, modelled, and formed (accord<g ref="char:EOLhyphen"/>ingly as his Excellency ſhall appoint) out of all the ſtanding Forces of the Kingdome, for the ſafety and defence thereof, and that all other Forces which ſhall
+<pb n="2" facs="tcp:161428:3"/>
+               <!-- PDF PAGE 32 -->exceed or be above that Number, ſhall have their Accounts audited, from the time they have beene in Service for the Parliament, (except thoſe enter<g ref="char:EOLhyphen"/>tained ſince the ſixt of <hi>Auguſt</hi> laſt) and ſhall have Deb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nters from the Commiſſioners Signed and Re<g ref="char:EOLhyphen"/>giſtred, as a due debt from the State, (according to the Ordinance of Parliament) to be paid out of ſuch Moneys or Securities as the Parliament have, or ſhall Ordaine for that purpoſe, and ſhall receive two Moneths Pay in part of their Arrears, and be disban<g ref="char:EOLhyphen"/>ded and diſmiſſed from their Services. And where<g ref="char:EOLhyphen"/>as I have alſo (in proſecution thereof) received Or<g ref="char:EOLhyphen"/>ders and Directions from his Excellency for the con<g ref="char:EOLhyphen"/>tinuing a certain Number of Horſe and Foote to bee appointed and formed by mee, out of the ſtanding Forces belonging to the ſeveral Counties of the Nor<g ref="char:EOLhyphen"/>thern Aſſociation, and for disbanding thoſe which ſhall exceed the ſaid Number, as is before expreſt. Theſe are therefore (by vertue and authority of his Excellencies Order directed unto me) to require you forthwith to Disband and Diſmiſſe (or cauſe to bee Disbanded and Diſmiſt) all thoſe who have beene entertained ſince the ſixt of <hi>Auguſt</hi> laſt, without mo<g ref="char:EOLhyphen"/>ney; and to chooſe out and appoint ſuch Officers and Souldiers under your command (which are to be ſuch as are comprized within the inſuing Inſtructions) to make ready their Accounts to be audited, ſtated, and regiſtred as aforeſaid, with all poſſible ſpeed; Which being done, and two Moneths Arreares paid unto them, you are to Disband and Diſmiſſe the ſaid Num<g ref="char:EOLhyphen"/>ber or cauſe them to be Disbanded and Diſmiſt ac<g ref="char:EOLhyphen"/>cordingly, as is before expreſt. And for ſo doing
+<pb n="3" facs="tcp:161428:3"/>
+               <!-- PDF PAGE 32 -->this ſhall be your ſufficient Warrant. <hi>Given under my Hand and Seale at YORK the twenty ninth of Janua<g ref="char:EOLhyphen"/>ry,</hi> 1647.</p>
+            <closer>
+               <signed>
+                  <hi>To Captain.</hi> &amp;c. <hi>Jo. LAMBERT</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>A Copy of what the Commander in Chiefe ſpake at a Councell of Warre, to the Officers there, concerning disbanding.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Make no queſtion but you are acquainted with the Parliaments laſt reſolution, for the modelling and continuing of a certaine number of Horſe and Foote for the ſafety and defence of the Kingdome, and that all above that Number are to be disbanded, the worke is very neceſſary; and I hope we ſhall ap<g ref="char:EOLhyphen"/>peare to bee of ſuch publique ſpirits, as not onely to comply with what the Parliament hath ordered, but ready, now our work is done, to returne to our places and that not without honour, and ſome ſatisfaction for our Arreares. It may be thought by ſome that two Moneths Pay is but a ſmall ſumme: but if you conſider the poverty of the Kingdome and great Aſ<g ref="char:EOLhyphen"/>ſeſſements on it, reaſon will tell you tis as much as can be done at this time, and more, if ye weigh the care taken by the Parliament for Arreares which I
+<pb n="4" facs="tcp:161428:4"/>
+               <!-- PDF PAGE 33 -->think is as much as they can doe, and the Kingdome give: So that nothing remaines but to conſider of ſome ſweet and amiable way for the affecting there<g ref="char:EOLhyphen"/>of, which wilbe expected from us, Many Officers muſt be layd aſide, and ſome ſtand, here are of both ſorts, and I deſire we may goe about the buſineſſe ſo, as may be of moſt advantage to both, and that the one may aſſiſt the other in the new modelling, and ſo order it as we may have reſpect to the Parliament and the Generall, that none may be abſtracters but aſſiſters in this worke.</p>
+         </div>
+         <div type="letter">
+            <head>THE Copy of a Letter from Major Gene<g ref="char:EOLhyphen"/>rall <hi>Lamberts</hi> Quarters at <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>WE are proceeding here to the worke of dis<g ref="char:EOLhyphen"/>banding as faſt as wee can, Accounts are going to be audited, ſome perſons are ap<g ref="char:EOLhyphen"/>pointed for expedition ſake to audite the ſame, and preſent them to the Commons. Orders are gone out of each Troop and Company (according to the in<g ref="char:EOLhyphen"/>cloſed Orders) which will both prevent diſcontent, and take away the worſt Members, Till the buſineſſe of Disbanding the Forces lye as they did.</p>
+            <p>Major <hi>Smithſons</hi> Regiament are upon their march out of <hi>Straford-ſhire</hi> into <hi>York-ſhire</hi> upon the pay<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:161428:4"/>
+               <!-- PDF PAGE 33 -->of ſix Moneths Aſſeſments, and are now in <hi>Dar<g ref="char:EOLhyphen"/>byſhire.</hi>
+            </p>
+            <p>The Souldery here are now for the preſent in a ve<g ref="char:EOLhyphen"/>ry ill condition, the Country complaining of them for lying on them ſtill, and they on the Country for reſiſting to give them Quarters, but 'tis hoped a ſuddaine Disbanding and Payment, will prevent both.</p>
+            <p>Thurſday laſt and Yeſterday Councells of Warre ſat in this City for the tryall of ſome Offenders, par<g ref="char:EOLhyphen"/>ticularly five Souldiers of Captaine <hi>Byards</hi> Troop for committing ſeverall diſorders and miſdemeanours at <hi>Hallifax,</hi> were adjudged to ſuffer an exemplary pu<g ref="char:EOLhyphen"/>niſhment. And alſo foure Souldiers of Major <hi>Rook<g ref="char:EOLhyphen"/>bies</hi> Troop, for miſdemeaning themſelves at their Quarters at <hi>Melton,</hi> I am Sir in great haſt.</p>
+            <closer>
+               <dateline>
+                  <hi>Yorke</hi> 
+                  <date>29 <hi>Jan.</hi> 1647,</date>
+               </dateline>
+               <signed>Your Humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>Inſtructions For the Officers of each Regiament for the chooſing and appointing of Of<g ref="char:EOLhyphen"/>ficers and Souldiers of every Company of Foot, and Troope of Horſe, who are to be Disbanded.</head>
+            <p n="1">
+               <hi>1.</hi> THoſe who ſhall be willing or deſire to bee Disbanded.</p>
+            <p n="2">
+               <hi>2.</hi> Thoſe who have beene in Armes againſt the
+<pb n="6" facs="tcp:161428:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 34 -->Parliament ſince the Battell at <hi>Naſeby,</hi> being the <hi>14</hi> of June, <hi>1645.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Thoſe who are of deboyſt or diſhoneſt con<g ref="char:EOLhyphen"/>verſation, and demeanour, as in Drinking, Swear<g ref="char:EOLhyphen"/>ing, abuſing their Quarters or Country, or other demeanours contrary to the Lawes and Ordinances of Warre.</p>
+            <p n="4">
+               <hi>4.</hi> That in caſe the foregoing Inſtructions com<g ref="char:EOLhyphen"/>prehend not the full Number appointed hereby to be Disbanded, you are to make it up of thoſe that have been lateſt entertained, or have continued leaſt in the Service.</p>
+            <closer>
+               <dateline>
+                  <hi>Yorke</hi> 
+                  <date>
+                     <hi>the 29 of Jan. 1647.</hi>
+                  </date>
+               </dateline>
+               <signed>Jo. LAMBERT</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Jan. <hi>31. 1647.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gil. Mabbot</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
